@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MagicBall_YesNo\MagicBall_YesNo\bin\Debug\MagicBall_YesNo.exe.config
+C:\Users\User\source\repos\MagicBall_YesNo\MagicBall_YesNo\bin\Debug\MagicBall_YesNo.exe
+C:\Users\User\source\repos\MagicBall_YesNo\MagicBall_YesNo\bin\Debug\MagicBall_YesNo.pdb
+C:\Users\User\source\repos\MagicBall_YesNo\MagicBall_YesNo\obj\Debug\MagicBall_YesNo.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MagicBall_YesNo\MagicBall_YesNo\obj\Debug\MagicBall_YesNo.Form1.resources
+C:\Users\User\source\repos\MagicBall_YesNo\MagicBall_YesNo\obj\Debug\MagicBall_YesNo.Properties.Resources.resources
+C:\Users\User\source\repos\MagicBall_YesNo\MagicBall_YesNo\obj\Debug\MagicBall_YesNo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MagicBall_YesNo\MagicBall_YesNo\obj\Debug\MagicBall_YesNo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MagicBall_YesNo\MagicBall_YesNo\obj\Debug\MagicBall_YesNo.exe
+C:\Users\User\source\repos\MagicBall_YesNo\MagicBall_YesNo\obj\Debug\MagicBall_YesNo.pdb
